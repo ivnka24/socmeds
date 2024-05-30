@@ -1,0 +1,21 @@
+{
+  "name": "gc01-ivnka24",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14917124&assignment_repo_type=AssignmentRepo)\r # GC01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.4",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "graphql": "^16.8.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "6.5",
+    "redis": "^4.6.13"
+  }
+}
